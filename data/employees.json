@@ -1,0 +1,170 @@
+[
+    {
+        "employee_id": "1",
+        "employee_name": "Alice",
+        "department": "Data Science",
+        "city": "chennai",
+        "salary": "60000"
+    },
+    {
+        "employee_id": "2",
+        "employee_name": "Bob",
+        "department": "HR",
+        "city": "bangalore",
+        "salary": "55000"
+    },
+    {
+        "employee_id": "3",
+        "employee_name": "Charlie",
+        "department": "Data Science",
+        "city": "vellore",
+        "salary": "70000"
+    },
+    {
+        "employee_id": "4",
+        "employee_name": "David",
+        "department": "Finance",
+        "city": "chittoor",
+        "salary": "50000"
+    },
+    {
+        "employee_id": "5",
+        "employee_name": "Emma",
+        "department": "Sales",
+        "city": "chennai",
+        "salary": "65000"
+    },
+    {
+        "employee_id": "6",
+        "employee_name": "Frank",
+        "department": "Data Science",
+        "city": "bangalore",
+        "salary": "45000"
+    },
+    {
+        "employee_id": "7",
+        "employee_name": "Grace",
+        "department": "HR",
+        "city": "vellore",
+        "salary": "58000"
+    },
+    {
+        "employee_id": "8",
+        "employee_name": "Henry",
+        "department": "Finance",
+        "city": "chittoor",
+        "salary": "52000"
+    },
+    {
+        "employee_id": "9",
+        "employee_name": "Irene",
+        "department": "Data Science",
+        "city": "coimbatore",
+        "salary": "72000"
+    },
+    {
+        "employee_id": "10",
+        "employee_name": "Jack",
+        "department": "Marketing",
+        "city": "coimbatore",
+        "salary": "48000"
+    },
+    {
+        "employee_id": "11",
+        "employee_name": "Karen",
+        "department": "Sales",
+        "city": "chennai",
+        "salary": "62000"
+    },
+    {
+        "employee_id": "12",
+        "employee_name": "Leo",
+        "department": "IT",
+        "city": "bangalore",
+        "salary": "68000"
+    },
+    {
+        "employee_id": "13",
+        "employee_name": "Mia",
+        "department": "Data Science",
+        "city": "vellore",
+        "salary": "75000"
+    },
+    {
+        "employee_id": "14",
+        "employee_name": "Noah",
+        "department": "HR",
+        "city": "chittoor",
+        "salary": "54000"
+    },
+    {
+        "employee_id": "15",
+        "employee_name": "Olivia",
+        "department": "Finance",
+        "city": "coimbatore",
+        "salary": "59000"
+    },
+    {
+        "employee_id": "16",
+        "employee_name": "Peter",
+        "department": "Sales",
+        "city": "mumbai",
+        "salary": "61000"
+    },
+    {
+        "employee_id": "17",
+        "employee_name": "Quinn",
+        "department": "IT",
+        "city": "mumbai",
+        "salary": "73000"
+    },
+    {
+        "employee_id": "18",
+        "employee_name": "Rachel",
+        "department": "Marketing",
+        "city": "mumbai",
+        "salary": "51000"
+    },
+    {
+        "employee_id": "19",
+        "employee_name": "Sam",
+        "department": "Data Science",
+        "city": "chennai",
+        "salary": "67000"
+    },
+    {
+        "employee_id": "20",
+        "employee_name": "Tina",
+        "department": "HR",
+        "city": "bangalore",
+        "salary": "56000"
+    },
+    {
+        "employee_id": "21",
+        "employee_name": "Uma",
+        "department": "Finance",
+        "city": "vellore",
+        "salary": "64000"
+    },
+    {
+        "employee_id": "22",
+        "employee_name": "Victor",
+        "department": "Sales",
+        "city": "chittoor",
+        "salary": "58000"
+    },
+    {
+        "employee_id": "23",
+        "employee_name": "Wendy",
+        "department": "IT",
+        "city": "coimbatore",
+        "salary": "76000"
+    },
+    {
+        "employee_id": "24",
+        "employee_name": "Xavier",
+        "department": "Marketing",
+        "city": "mumbai",
+        "salary": "53000"
+    }
+]

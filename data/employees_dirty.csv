@@ -1,0 +1,26 @@
+employee_id,employee_name,department,city,salary,city.1
+1,Alice,Data Science,Hyderabad,60000.0,chennai
+2,Bob,HR,Bangalore,,bangalore
+3,Charlie,Data Science,Hyderabad,70000.0,vellore
+4,David,Finance,Mumbai,50000.0,chittoor
+5,Emma,Sales,Delhi,,chennai
+6,Frank,Data Science,Hyderabad,45000.0,bangalore
+7,Grace,HR,Bangalore,58000.0,vellore
+8,Henry,Finance,Mumbai,52000.0,chittoor
+9,Irene,Data Science,Hyderabad,72000.0,coimbatore
+10,Jack,Marketing,Chennai,48000.0,coimbatore
+11,Karen,Sales,Delhi,62000.0,chennai
+12,Leo,IT,Pune,68000.0,bangalore
+13,Mia,Data Science,Hyderabad,75000.0,vellore
+14,Noah,HR,Bangalore,54000.0,chittoor
+15,Olivia,Finance,Mumbai,59000.0,coimbatore
+16,Peter,Sales,Delhi,61000.0,mumbai
+17,Quinn,IT,Pune,73000.0,mumbai
+18,Rachel,Marketing,Chennai,51000.0,mumbai
+19,Sam,Data Science,Hyderabad,67000.0,chennai
+20,Tina,HR,Bangalore,56000.0,bangalore
+21,Uma,Finance,Mumbai,64000.0,vellore
+22,Victor,Sales,Delhi,58000.0,chittoor
+23,Wendy,IT,Pune,76000.0,coimbatore
+24,Xavier,Marketing,Chennai,53000.0,mumbai
+1,Alice,Data Science,Hyderabad,60000.0,chennai
